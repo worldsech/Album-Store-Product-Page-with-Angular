@@ -1,1 +1,1 @@
-# Album-Store-Product-Page-with-Angular
+# pluralsight-projects-Angular-AlbumStore-Product-Page
